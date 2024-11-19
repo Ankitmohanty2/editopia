@@ -47,7 +47,7 @@ A minimalistic Figma clone to show how to add real-world features like live coll
 
 👉 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**: Offers a range of functions for managing design elements, including deletion, scaling, moving, clearing the canvas, and exporting the final design for external use.
 
-and many more, including code architecture, advanced react hooks, and reusability 
+and many more, including code architecture, advanced react hooks
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
